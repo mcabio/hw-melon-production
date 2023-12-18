@@ -1,5 +1,8 @@
 """Shipping procedures for Ubermelon."""
 
+# In order to run this script to read standing_orders2.log, Type this into the terminal:
+# python3 shipping_procedure.py standing_orders2.log
+
 import sys
 from melons import Melon, Squash
 import robots
